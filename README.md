@@ -1,1 +1,1 @@
-[notes](https://notes.benatkin.com/)
+<a href="https://notes.benatkin.com/" rel="me">notes</a>
