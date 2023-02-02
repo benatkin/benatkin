@@ -1,1 +1,3 @@
-<a href="https://notes.benatkin.com/" rel="me">notes</a>
+# `find me on [codeberg](https://codeberg.org/bat)`
+
+# Also on [gitlab](https://gitlab.com/bat)
