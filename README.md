@@ -1,4 +1,4 @@
-# `find me on` [`codeberg`](https://codeberg.org/bat)
+# `find me on` [`codeberg`](https://codeberg.org/bat?tab=activity)
 
 # `also on` [`gitlab`](https://gitlab.com/bat)
 
